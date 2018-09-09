@@ -13,12 +13,6 @@
 #define BUF_SIZE	1024
 #define LISTEN_PORT	60000
 
-/*
-* Rushane Barnes, 620097883
-* Matthew Patterson, 620095960
-* Cassandrae Campbell, 620320101
-*/
-
 typedef enum { false, true } bool; // custom boolean type
 
 int main(int argc, char *argv[]){
